@@ -1,0 +1,6 @@
+{
+  "name": "Product Walkthrough Video Creator",
+  "description": "An interactive web editor to streamline product showcase videos. Analyzes video structures, speeds up loading sequences automatically, crafts AI scripts, and records synced voiceovers of the timeline walkthrough.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
